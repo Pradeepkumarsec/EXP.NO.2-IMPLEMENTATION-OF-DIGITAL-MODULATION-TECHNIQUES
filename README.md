@@ -44,3 +44,5 @@ For PSK:
 ![Screenshot 2025-04-06 192351](https://github.com/user-attachments/assets/de983b5b-aa3c-4e3f-825a-af968ac84381)
 ## RESULT 
 Thus the ASK, FSK AND PSK Modulation and Demodulation techniques were analyzed.
+
+
